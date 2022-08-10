@@ -1,4 +1,5 @@
 ### Hi there 👋
+暇な時に書く
 
 <!--
 **Project-S-31415/Project-S-31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
