@@ -1,17 +1,15 @@
-### Hi there 👋
-暇な時に書く
+# 24時間こんばんわー
+いろいろ使い方間違ってると思うので指摘お願いします
 
-<!--
-**Project-S-31415/Project-S-31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+座右の銘:よく確認しろ。たぶん動くぞ。(？)
+## してること
+### 学生生活
+普通に高校生。
 
-Here are some ideas to get you started:
+### 地震観測
+岐阜市でやってます
+https://youtube.com/@GifuCam_Ichihai1415
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### プログラミング(笑)
+地震系を主に簡単なツールを作ってます
+
