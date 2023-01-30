@@ -24,11 +24,6 @@ https://qwpass.svdprev.info/
 
 http://early-est.rm.ingv.it/warning.html
 
-### Clock For Fuku
-
-
-https://fuku1213.hatenablog.com/entry/2021/03/31/214957
-
 ### 地牛Wake Up!
 (EEWを受信時のみ)
 
@@ -49,8 +44,8 @@ http://wsparkle.s1008.xrea.com/programs/eewa2/
 
 https://jpn.moo0.com/software/SystemMonitor/
 
-### TweetDeck(@UN_NERV)
-
+### TweetDeck
+@UN_NERV
 
 https://tweetdeck.twitter.com/
 
@@ -58,6 +53,11 @@ https://tweetdeck.twitter.com/
 
 
 https://github.com/ingen084/KyoshinMonitorProxy
+
+### 気象庁気象マップ
+災害発生時等のみ
+
+https://www.jma.go.jp/bosai/map.html
 
 ## 画面外(動作・SEなど)
 ### P2P地震情報 新Windows版
@@ -182,10 +182,10 @@ https://rd.vector.co.jp/soft/winnt/net/se518506.html
 
 https://eqdata.sakura.ne.jp/kyoshin/ws.html
 
-### 気象庁気象マップ
+### Clock For Fuku
 
 
-https://www.jma.go.jp/bosai/map.html
+https://fuku1213.hatenablog.com/entry/2021/03/31/214957
 
 ### Weather Warning Map
 
