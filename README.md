@@ -4,8 +4,11 @@
 
 ↑これすき
 
+![Discord](https://dcbadge.vercel.app/api/shield/812959867760279572?style=flat)
+[![Discord server](https://dcbadge.vercel.app/api/server/7dBFWKjgGa?style=flat)](https://discord.gg/7dBFWKjgGa)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProjectS31415_1) 
-←なんかあればここにどうぞ
+←↑なんかあればここにどうぞ
 
 # 24時間こんばんわー
 2022/01/27~です。高校受験前に始めるような人です。いろいろ(使い方も含め)間違ってると思うので指摘お願いします。
