@@ -7,7 +7,7 @@
 ![Discord](https://dcbadge.vercel.app/api/shield/812959867760279572?style=flat)
 [![Discord server](https://dcbadge.vercel.app/api/server/7dBFWKjgGa?style=flat)](https://discord.gg/7dBFWKjgGa)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProjectS31415_1) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ProjectS31415_1) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ProjectS31415_1?label=%40ProjectS31415_1&link=https%3A%2F%2Ftwitter.com%2FProjectS31415_1)](https://twitter.com/ProjectS31415_1)
 ←↑なんかあればここにどうぞ
 
 # 24時間こんばんわー
