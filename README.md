@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ichihai1415&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ichihai1415&theme=dark&hide_border=false)
-![](https://github-profile-trophy.vercel.app/?username=Ichihai1415&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ichihai1415&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 [![wakatime](https://wakatime.com/badge/user/018d266d-2f69-4179-ace8-f0017b3d0fc1.svg)](https://wakatime.com/@018d266d-2f69-4179-ace8-f0017b3d0fc1)(2024/01/21~)
 
 ↑これすき
