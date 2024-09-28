@@ -14,6 +14,30 @@
 # 24時間こんばんわー
 2022/01/22くらい~です。高校受験前に始めるような人です。いろいろ(使い方も含め)間違ってると思うので指摘お願いします。
 
-C#のWinFormsがメイン、他にもやりたい。
+## My Coding Technology Table
+
+Update:`2024/09/28`
+
+ちょっと触っただけなものが多い。ここでは1から(既存のコードを修正しただけでなく)作ったものがあるもののみ。
+
+
+|言語等|開始|理解度|詳細|
+|---|---|---|---|
+|(ブロック型)|2020年頃?|ちょっと|授業 [Robo Blocks](https://blocks.softbankrobotics.com/),[micro:bit](https://microbit.org/)|
+|ドリトル|2021年頃?|ちょっと|[教育用プログラミング言語](https://dolittle.eplang.jp/)です。|
+|HTML|2021年頃?|基本的なものなら|現在は[ichihai.dev](https://ichihai.dev)|
+|CSS|2021年頃?|基本的なものなら||
+|C#|2022/01/22頃|ある程度|現在メイン。ほぼWinForms|
+|Batchfile|2022/6/19頃|ちょっと||
+|JavaScript|2022/07頃|基本的なものなら|最初に作ったのは時刻表示|
+|C++(Arduino)|2022/09/23頃|ちょっと|加速度計データ取得に|
+|Scratch|2022/11/10|ちょっと|ちょっと触っただけ|
+|VBA(Excel)|2022/10頃？|ちょっと|授業+ちょっと|
+|VBScript|2023/01/18頃|僅か|遊び用|
+|Blazor|2024/05/18頃|ちょっと|C#のDLLをWebで読み込めると知ったので|
+|TypeScript|2024/09/28|ちょっと|Hono+CloudflareWorkersでWebAPIを作れると知ったので|
+<!--|||||-->
+
+<!--using google youtube qiita twitter githubなど-->
 
 座右の銘:落ち着いて見直せ。ミスってるぞ。
