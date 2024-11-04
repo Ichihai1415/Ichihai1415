@@ -39,6 +39,7 @@ Update:`2024/09/28`
 |Blazor|2024/05/18頃|ちょっと|C#のDLLをWebで読み込めると知ったので|
 |TypeScript|2024/09/28|ちょっと|Hono+CloudflareWorkersでWebAPIを作れると知ったので|
 |XAML(MAUI)|2024/09/29|僅か|アプリ作ってみたかった。使うかは今後検討|
+|SVG|2024/11/04|僅か|プロフィールバッジの外部依存を止めたかった|
 <!--|||||-->
 
 <!--using google youtube qiita twitter githubなど-->
