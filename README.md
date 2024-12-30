@@ -1,4 +1,5 @@
-<img width="64" src="svg/icon.svg"> ←icon(svg)
+<img width="64" src="svg/icon.svg"> <br>
+↑ アイコン(1からちゃんと作ったsvg)
 <br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ichihai1415&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
