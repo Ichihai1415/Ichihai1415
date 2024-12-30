@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+    <circle cx="255.5" cy="255.5" r="256" fill="#0000" /><!--円背景いるとき#000に-->
+    <circle cx="127.5" cy="127.5" r="16" fill="#6464FA" />
+    <circle cx="255.5" cy="127.5" r="16" fill="#6464FA" />
+    <circle cx="383.5" cy="127.5" r="16" fill="#6464FA" />
+    <circle cx="127.5" cy="255.5" r="16" fill="#6464FA" />
+    <circle cx="255.5" cy="255.5" r="16" fill="#6464FA" />
+    <circle cx="383.5" cy="255.5" r="16" fill="#6464FA" />
+    <circle cx="127.5" cy="383.5" r="16" fill="#6464FA" />
+    <circle cx="255.5" cy="383.5" r="16" fill="#6464FA" />
+    <circle cx="383.5" cy="383.5" r="16" fill="#6464FA" />
+    <line x1="127.5" y1="383.5" x2="255.5" y2="127.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="383.5" y1="383.5" x2="255.5" y2="127.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="383.5" y1="383.5" x2="127.5" y2="255.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="383.5" y1="127.5" x2="127.5" y2="255.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="383.5" y1="127.5" x2="255.5" y2="383.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="127.5" y1="127.5" x2="255.5" y2="383.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="127.5" y1="127.5" x2="383.5" y2="255.5" stroke="#6464FA" stroke-width="10"  />
+    <line x1="255.5" y1="255.5" x2="383.5" y2="255.5" stroke="#6464FA" stroke-width="10"  />
+</svg>
