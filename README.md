@@ -12,7 +12,7 @@
 [![Discord server](svg/badge-ichihai-software.svg)](https://discord.gg/7dBFWKjgGa)
 [![Twitter](svg/badge-twitter.svg)](https://twitter.com/ProjectS31415_1)
 [![X (formerly Twitter) Follow](svg/badge-x.svg)](https://twitter.com/ProjectS31415_1)
-←なんかあればここにどうぞ
+←なんかあればここにどうぞ(Discordのフレンド申請は事前にXで連絡またはサーバーに参加しておいてください。)
 <br><br><br>
 
 # 24時間こんばんわー
